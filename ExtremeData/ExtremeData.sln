@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{A1CD20ED-2C1F-4625-A09D-6637BBC2E201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoML", "CasinoML\CasinoML.csproj", "{1718E6CA-EDDD-409B-8796-92B2E249939D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A1CD20ED-2C1F-4625-A09D-6637BBC2E201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CD20ED-2C1F-4625-A09D-6637BBC2E201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CD20ED-2C1F-4625-A09D-6637BBC2E201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1718E6CA-EDDD-409B-8796-92B2E249939D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1718E6CA-EDDD-409B-8796-92B2E249939D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1718E6CA-EDDD-409B-8796-92B2E249939D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1718E6CA-EDDD-409B-8796-92B2E249939D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
